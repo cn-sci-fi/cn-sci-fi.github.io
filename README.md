@@ -1,2 +1,2 @@
-# rekor-hub.github.io
-Rekor Home Page.
+# cn-sci-fi.github.io
+China Science Fiction Home Page.
